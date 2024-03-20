@@ -21,5 +21,4 @@ Project Assignments:
 - Koch Snowflake Fractal
 - Complex Matrix Calculator
 - 24-Point Card Game
-- Table of Sorted Items
-- Wisdom Wall
+- Sort Algorithm times
